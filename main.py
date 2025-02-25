@@ -52,6 +52,8 @@ def respond(voice_data):
         exit()
 
 
+
+
 time.sleep(1)
 vicky_speak('How can I help you?')
 while 1:
