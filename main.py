@@ -8,7 +8,6 @@ from gtts import gTTS
 from datetime import datetime
 
 
-
 r = sr.Recognizer()
 
 
